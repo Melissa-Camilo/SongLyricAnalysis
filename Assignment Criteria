@@ -1,0 +1,19 @@
+For this assignment, you must find an area of interest, collect (you can use the TwitterR library as a last resort) and analyze text data in R using at least 2 frameworks covered in class.
+
+Submit 1 pdf file that has two parts:
+  1. A report detailing applied business insight (include any charts that support your business insight). Build a strong argument for a business decision based upon your findings. You should mention at least 2 frameworks, covered in class, that helped you gain the business insight. (750-1500 words)
+  2. In the appendix, please include your R code and R code output.
+  
+Guidelines:
+    - PDF submission, the word count should be between 750-1500 (this applies to the 1st part of your pdf file)
+    - You must follow HULT’s guidelines for citation and referencing outside resources. 
+    - Build a strong argument for a business decision based upon your findings.
+    - This assignment is worth 15% of your final grade.
+
+ 
+Your report will be graded using the attached grading rubric. Please read the rubric before submitting your work. The rubric includes the following requirements(more details in grading rubric):
+  1. Collect text or other unstructured data that aligns with your area of interest - you must perform the data collection and imputation yourself 
+  2. Submit a pdf file that has 2 parts (1. a business insight report that counts between 750 and 1500 words, 2. R code with R output)
+  3. Mentioning at least 2 frameworks covered in class - you should include charts- and explain how they impact your business decision (in the 1st part of your report).
+  4. Build a strong argument for a business decision based upon your findings.
+  5. Follow APA guidelines for citation and referencing outside resources.
